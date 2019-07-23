@@ -7,5 +7,11 @@
             "email": "ufoddd001@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "description": "The simple library to learn the composer depth",
+    "autoload": {
+        "psr-4": {
+           "Maths\\"   : "./src"
+        }
+    }
 }
